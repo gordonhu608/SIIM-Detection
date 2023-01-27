@@ -1,0 +1,1 @@
+PL_TORCH_DISTRIBUTED_BACKEND=nccl python train.py
