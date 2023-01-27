@@ -1,4 +1,4 @@
-# pl-siim-covid19-detection
+# siim-covid19-detection
 
 # Train environment
 1.pytorch==1.7.1
